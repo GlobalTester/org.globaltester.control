@@ -9,7 +9,7 @@
     <relativePath>../../org.globaltester.parent/org.globaltester.parent/</relativePath>
   </parent>
   <groupId>org.globaltester</groupId>
-  <artifactId>com.hjp.osgi.remotecontrol</artifactId>
+  <artifactId>com.hjp.globaltester.control</artifactId>
   <version>0.1.1</version>
   <packaging>eclipse-plugin</packaging>
 </project>
