@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: GlobalTester Remote Control Interface
+Bundle-Name: GT Remote Control Interface
 Bundle-SymbolicName: com.hjp.globaltester.control
 Bundle-Version: 0.1.1
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
