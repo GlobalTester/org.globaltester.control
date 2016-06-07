@@ -1,4 +1,4 @@
-package com.hjp.globaltester.control;
+package org.globaltester.control;
 
 /**
  * This class is intended as the root of all remotely accessible control

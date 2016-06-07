@@ -1,4 +1,4 @@
-package com.hjp.globaltester.control;
+package org.globaltester.control;
 
 /**
  * This is an interface for remotely accessible objects that can be used
