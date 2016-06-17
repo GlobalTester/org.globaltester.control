@@ -17,4 +17,11 @@ public interface RemoteControlHandler {
 	 * @return the type identifying the implemented interface
 	 */
 	public String getType();
+
+	/**
+	 * Return an adapter for this Handler to match the the provided transport agent. 
+	 * @param c Interface to be implemented ba the returned Adapter
+	 * @return
+	 */
+	public <T> T getAdapter(Class<T> c);
 }
