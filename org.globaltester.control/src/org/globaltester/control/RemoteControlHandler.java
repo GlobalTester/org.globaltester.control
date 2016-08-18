@@ -20,6 +20,7 @@ public interface RemoteControlHandler {
 
 	/**
 	 * Return an adapter for this Handler to match the the provided transport agent. 
+	 * XXX remove this method and supply available adapters via OSGi service
 	 * @param c Interface to be implemented ba the returned Adapter
 	 * @return
 	 */
