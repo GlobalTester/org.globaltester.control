@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc label="Book" link_to="/org.globaltester.base.doc/toc/user/toc.xml#reference">
+   <topic label="Remote Control">
+      <topic href="html/user/remotecontrol_concepts.html" label="Overview">
+      </topic>
+      <anchor id="remotecontrol"/>
+   </topic>
+</toc>

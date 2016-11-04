@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.help.toc">
+      <toc
+            file="toc/user/remotecontrol_concepts.xml"
+            primary="false">
+      </toc>
+      <toc
+            file="toc/user/remotecontrol_reference.xml"
+            primary="false">
+      </toc>
+   </extension>
+
+</plugin>
