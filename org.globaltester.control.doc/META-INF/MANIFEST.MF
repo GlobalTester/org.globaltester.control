@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Remote control Documentation
+Bundle-SymbolicName: org.globaltester.control.doc;singleton:=true
+Bundle-Version: 0.1.0.qualifier
+Bundle-Vendor: secunet Security Networks AG
+Require-Bundle: org.eclipse.help
