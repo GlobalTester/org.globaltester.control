@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Remote control Documentation
+Bundle-Name: GT Remote control Doc
 Bundle-SymbolicName: org.globaltester.control.doc;singleton:=true
 Bundle-Version: 3.2.1.qualifier
 Bundle-Vendor: secunet Security Networks AG
